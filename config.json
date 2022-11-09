@@ -1,0 +1,32 @@
+ {
+    "bot": {
+        "prefix": ",",
+        "id": "930134786796814428",   
+        "secret": "ENV",
+        "token": "ENV"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://uptimer-website.just98.repl.co",
+        "callback": "https://uptimer-website.just98.repl.co/callback",
+        "discord_server_ID": "891580422222381107",
+        "ownerids": ["862621966317912084", ""],
+        "ownershow": true,
+        "owners": [
+            {
+                "id": "862621966317912084",
+                "desc": "developer"
+            },
+            {
+                "id": "",
+                "desc": "user"
+            }
+        ],
+        "arc": {
+            "enabled": false,
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://Just:just@just.yjl3l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "discord.gg/yourserverlink"
+ }
